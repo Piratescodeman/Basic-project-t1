@@ -1,0 +1,12 @@
+git add <pic1.jpg>
+git commit -m "Add image file"
+git push origin master
+git add <pic2.jpg>
+git commit -m "Add image file"
+git push origin master
+git add <pic3.jpg>
+git commit -m "Add image file"
+git push origin master
+git add <colorpic.jpg>
+git commit -m "Add image file"
+git push origin master

@@ -1,9 +1,9 @@
-# Dataset - https://github.com/codebrainz/color-names/blob/master/output/colors.csv
+# Dataset - colors.csv
 
 import cv2
 import pandas as pd
 
-img_path = r'C:\Users\Balaji\Downloads\color detection\colorpic.jpg'
+img_path = r'Internal storage/Download/colorpic.jpg'
 img = cv2.imread(img_path)
 
 # declaring global variables (are used later on)
